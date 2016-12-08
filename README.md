@@ -1,6 +1,4 @@
-# ICS3U-2016-Group1
+# ICS3U-2016-Group12
 
 Coders: 
-- Boulay, Kyle
-- Anglin, Tristan
-- Dory, Justin
+- 
